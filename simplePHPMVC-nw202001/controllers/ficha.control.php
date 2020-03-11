@@ -7,9 +7,10 @@
 function run()
 {
     $arrViewData = array();
-    $arrViewData["nombre"] = "Orlando J Betancourth";
-    $arrViewData["cuenta"] = "1206300023 ";
-    $arrViewData["email"] = "obetancourthunicah@gmail.com";
+    $arrViewData["name"] = " ";
+    $arrViewData["date"] = " ";
+    $arrViewData["description"] = " ";
+    $arrViewData["state"] = " ";
     renderizar("ficha", $arrViewData);
 }
 

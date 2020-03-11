@@ -6,5 +6,3 @@ CREATE TABLE `prueba`.`contratos1` (
    `description` VARCHAR(45) NOT NULL,
     `state` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`cod_contratos`));
-
-  hsdgmhdmhdshjdsj,
